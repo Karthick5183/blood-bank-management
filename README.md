@@ -189,4 +189,5 @@ The Blood Bank Management System is a secured, user-centered web application tha
 
 
 
-## 10.Future Work: The system is designed to be scalable. Future iterations can include more advanced mobile integrations and expanded reporting features for hospital management.
+## 10.Future Work:
+The system is designed to be scalable. Future iterations can include more advanced mobile integrations and expanded reporting features for hospital management.
